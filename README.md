@@ -2,7 +2,7 @@
 
 Welcome to my github page, where I document my coding journey
 
-- 🛠 I’m currently working on [Muvee](https://github.com/Mafeni/Muvee)
+- 🛠 I’m currently working on [muvee](https://github.com/Mafeni/muvee)
 - 📚 I'm currently learning React and Redux
 - 👯 I’m looking to collaborate on anything, feel free to drop me a [mail](mailto:mafeni96)
 
