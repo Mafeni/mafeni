@@ -2,8 +2,7 @@
 
 Welcome to my github page, where I document my coding journey
 
-- 🛠 I’m currently working on [muvee](https://github.com/Mafeni/muvee)
-- 📚 I'm currently learning React and Redux
+- 📚 I'm currently learning Data Analytics 
 - 👯 I’m looking to collaborate on anything, feel free to drop me a [mail](mailto:mafeni96)
 
 ## Languages and Skills:
@@ -14,7 +13,7 @@ Welcome to my github page, where I document my coding journey
 **Mafeni/mafeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🛠 I’m currently working on [muvee](https://github.com/Mafeni/muvee
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
